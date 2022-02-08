@@ -1,7 +1,7 @@
 # button
 Tool untuk menambahkan tombol tambahan Termux
 
- - Youtube  https://youtube.com/Indonesia Cyber Xploid
+ - Youtube  https://youtube.com/channel/UCLgsOkTQlyixvUHia5pTA3w
  
 # Install
 pkg install git
