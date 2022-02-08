@@ -4,6 +4,8 @@ Tool untuk menambahkan tombol tambahan Termux
  - Youtube  https://youtube.com/channel/UCLgsOkTQlyixvUHia5pTA3w
  
 # Install
+pkg update && pkg upgrade
+
 pkg install git
 
 pkg install python2
